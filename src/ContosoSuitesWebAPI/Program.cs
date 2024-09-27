@@ -1,3 +1,6 @@
+using Microsoft.SemanticKernel;
+using Microsoft.SemanticKernel.Connectors.OpenAI;
+using Microsoft.SemanticKernel.ChatCompletion;
 using Azure.Identity;
 using Microsoft.Azure.Cosmos;
 using ContosoSuitesWebAPI.Agents;
