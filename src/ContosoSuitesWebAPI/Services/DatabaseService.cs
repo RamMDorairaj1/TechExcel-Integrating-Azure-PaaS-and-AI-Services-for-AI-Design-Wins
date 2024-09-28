@@ -4,7 +4,7 @@ using ContosoSuitesWebAPI.Entities;
 using Microsoft.SemanticKernel;
 using System.ComponentModel;
 
-
+ 
 namespace ContosoSuitesWebAPI.Services;
 
 public class DatabaseService : IDatabaseService
